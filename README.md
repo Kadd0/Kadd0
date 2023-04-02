@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Kadir Kavraz 
+I'm a front-end developer based in [Istanbul, Turkey](https://google.com/maps/place/Istanbul,+Turkey/). I specialize in building responsive and user-friendly websites and web applications using modern front-end technologies like React.
 
-<!--
-**Kadd0/Kadd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects
 
-Here are some ideas to get you started:
+- [AxiosGetPost](https://github.com/Kadd0/axiosGetPostJS) 
+- [JsMenu](https://github.com/Kadd0/JS-Menu) 
+- [ToDoList](https://github.com/Kadd0/kodluyoruz-Js-ToDoList)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- HTML/CSS
+- JavaScript
+- React
+- Bootstrap
+- Git
+- C#
+- SQL
+- ASP.NET MVC
+
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/kadirorhunkavraz/)
+- [Email](mailto:kadirkavraz@gmail.com)
