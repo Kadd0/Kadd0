@@ -3,9 +3,9 @@ I'm a front-end developer based in [Istanbul, Turkey](https://google.com/maps/pl
 
 ## Current Projects
 
+- [StarwarsAPI-React](https://github.com/Kadd0/StarwarsAPI-React)
+- [BookSearchUsingReact](https://github.com/Kadd0/BookSearchUsingReact)
 - [ReactToDoList](https://github.com/Kadd0/reactToDoList)
-- [AxiosGetPost](https://github.com/Kadd0/axiosGetPostJS) 
-- [JsMenu](https://github.com/Kadd0/JS-Menu) 
 
 
 ## Skills
