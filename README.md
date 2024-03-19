@@ -20,7 +20,7 @@ I'm a front-end developer based in [Istanbul, Turkey](https://google.com/maps/pl
 - ASP.NET MVC
 
 
-## Let's Connect
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/kadirorhunkavraz/)
 - [Email](mailto:kadirkavraz@gmail.com)
